@@ -127,6 +127,7 @@ function getInfo(idstring) {
         // clear the demographic info 
         demographicInfo.html("");
 
+//(5): Display each key-value pair from the metadata
         // tutor provided some guidance: 
         Object.entries(result).forEach((key) => {   
                 demographicInfo.append("h5").text(key[0].toUpperCase() + ": " + key[1] + "\n");    

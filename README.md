@@ -16,25 +16,25 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
-* Use `sample_values` as the values for the bar chart.
+    * Use `sample_values` as the values for the bar chart.
 
-* Use `otu_ids` as the labels for the bar chart.
+    * Use `otu_ids` as the labels for the bar chart.
 
-* Use `otu_labels` as the hovertext for the chart.
+    * Use `otu_labels` as the hovertext for the chart.
 
   ![bar Chart](Images/hw01.png)
 
 3. Create a bubble chart that displays each sample.
 
-* Use `otu_ids` for the x values.
+*   Use `otu_ids` for the x values.
 
-* Use `sample_values` for the y values.
+*   Use `sample_values` for the y values.
 
-* Use `sample_values` for the marker size.
+*   Use `sample_values` for the marker size.
 
-* Use `otu_ids` for the marker colors.
+*   Use `otu_ids` for the marker colors.
 
-* Use `otu_labels` for the text values.
+*   Use `otu_labels` for the text values.
 
 ![Bubble Chart](Images/bubble_chart.png)
 
@@ -54,7 +54,7 @@ Additionally, you are welcome to create any layout that you would like for your 
 ------------------------------------------------------------
 ------------------------------------------------------------
 
-## Advanced Challenge Assignment (Optional)
+## Advanced Challenge Assignment (OPTIONAL)
 
 The following task is advanced and therefore optional.
 
